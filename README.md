@@ -1,2 +1,3 @@
 # datasciencecoursera
-Coursera's Dara Science comminments
+
+datasciencecoursera is a repository for showing and shearing Coursera's Data Science experiences
