@@ -1,3 +1,3 @@
 # datasciencecoursera
 
-datasciencecoursera is a repository for showing and shearing Coursera's Data Science experiences
+datasciencecoursera is a repository for showing and sharing Coursera's Data Science assigments
